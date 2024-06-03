@@ -33,7 +33,9 @@ I'm a PHP developer passionate about creating robust and efficient web solutions
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nego1993&show_icons=true&theme=radical)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nego1993&layout=compact&theme=radical)
+
 ![Monthly Commits](https://github-readme-streak-stats.herokuapp.com/?user=nego1993&theme=radical)
 
 ---
